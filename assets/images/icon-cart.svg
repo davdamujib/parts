@@ -1,0 +1,54 @@
+<svg class="icon-w" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" width="45" height="45" style="margin: initial; display: block; shape-rendering: auto;">
+  <defs><style type="text/css">
+   
+    @keyframes breath {
+      0%, 100% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.1);
+      }
+    }
+
+    .icon-w{
+      width: 45px;
+      height: 45px;
+    }
+
+    
+    .breath {
+      animation: breath 3s ease-in-out infinite;
+    }
+
+    @media only screen and (max-width:600px){
+      .icon-w{
+        width: 55px;
+        height: 55px;
+        /* margin-left: 20px; */
+        /* padding-left: 18px; */
+        /* border: 1px solid #fff; */
+        padding: 0px 0px 20px 0px;
+      }
+    }
+   
+  </style></defs>
+  <g class="ldl-scale breath" style="transform-origin: 50% 50%; transform: scale(0.8, 0.8);">
+    <g class="ldl-ani2" style="transform-box: view-box; opacity: 1; transform-origin: 50px 50px;">
+      <g class="ldl-layer">
+        <g class="ldl-ani2" style="transform-box: view-box;">
+          <path stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#323232" fill="none" d="M63.638 90H36.362c-7.557 0-13.684-6.126-13.684-13.684V24.643h54.643v51.673C77.321 83.874 71.195 90 63.638 90z" style="stroke-width: 3; stroke: rgb(45, 114, 184);"></path>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani2" style="transform-box: view-box;">
+          <path stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#323232" fill="none" d="M36.25 34.643V23.75C36.25 16.156 42.406 10 50 10h0c7.594 0 13.75 6.156 13.75 13.75v10.893" style="stroke-width: 3; stroke: rgb(45, 114, 184);"></path>
+        </g>
+      </g>
+      <g class="ldl-layer">
+        <g class="ldl-ani2" style="transform-box: view-box;">
+          <path d="M32.187 74.911h35.625" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#323232" fill="none" style="stroke-width: 3; stroke: rgb(45, 114, 184);"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
