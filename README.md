@@ -1,2 +1,0 @@
-# parts
-auto spare parts
